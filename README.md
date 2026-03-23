@@ -112,9 +112,9 @@ I'm a software professional at TCS with hands-on experience in **Salesforce Deve
 I'm always open to connecting with fellow tech enthusiasts, exchanging ideas, or exploring new opportunities.
 
 <p align="left">
-  <a href="https://github.com/nikhilm2904" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nikhilm29/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30"/></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/nikhil_raja29/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30"/></a>&nbsp;&nbsp;
-   <a href="https://x.com/Nikhil_raja29" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="X (Twitter)" height="30"/></a>&nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/nikhil_raja29" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Reddit" height="30"/></a>
+  <a href="https://github.com/nikhilm2904" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/nikhilm29/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a>&nbsp;
+  <a href="https://www.instagram.com/nikhil_raja29/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30"/></a>&nbsp;
+  <a href="https://x.com/Nikhil_raja29" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" height="30"/></a>&nbsp;
+  <a href="https://www.reddit.com/user/nikhil_raja29" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" height="30"/></a>
 </p>
