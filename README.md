@@ -115,6 +115,6 @@ I'm always open to connecting with fellow tech enthusiasts, exchanging ideas, or
   <a href="https://github.com/nikhilm2904" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nikhilm29/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30"/></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/nikhil_raja29/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30"/></a>&nbsp;&nbsp;
-   <a href="https://x.com/Nikhil_raja29" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/x.svg" alt="X (Twitter)" height="30"/></a>&nbsp;&nbsp;
+   <a href="https://x.com/Nikhil_raja29" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="X (Twitter)" height="30"/></a>&nbsp;&nbsp;
   <a href="https://www.reddit.com/user/nikhil_raja29" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Reddit" height="30"/></a>
 </p>
