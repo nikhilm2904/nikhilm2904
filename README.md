@@ -50,7 +50,7 @@ I'm a software professional at TCS with hands-on experience in **Salesforce Deve
 ### ☁️ Cloud — AWS
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_s3/amazon_s3-icon.svg" alt="AWS S3" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="AWS S3" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/lambda/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Lambda" width="40" height="40"/></a>
 </p>
 
@@ -87,7 +87,7 @@ I'm a software professional at TCS with hands-on experience in **Salesforce Deve
 
 #### Productivity & Collaboration
 <p align="left">
-  <a href="https://www.notion.so/" target="_blank"><img src="https://www.vectorlogo.zone/logos/notionhq/notionhq-icon.svg" alt="Notion" width="40" height="40"/></a>
+  <a href="https://www.notion.so/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="40" height="40"/></a>
 </p>
 
 **Productivity Tools:** Notion · Google Workspace · MS Office Suite
