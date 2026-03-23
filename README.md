@@ -58,9 +58,9 @@ I'm a software professional at TCS with hands-on experience in **Salesforce Deve
 
 ### 🤖 AI Tools
 <p align="left">
-  <a href="https://claude.ai" target="_blank"><img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="Claude" width="40" height="40"/></a>
-  <a href="https://openai.com/chatgpt" target="_blank"><img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="ChatGPT" width="40" height="40"/></a>
-  <a href="https://gemini.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Gemini" width="40" height="40"/></a>
+  <a href="https://claude.ai" target="_blank"><img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" alt="Claude" width="40" height="40"/></a>
+  <a href="https://openai.com/chatgpt" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40"/></a>
+  <a href="https://gemini.google.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Gemini" width="40" height="40"/></a>
   <a href="https://www.cursor.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" alt="Cursor" width="40" height="40"/></a>
 </p>
 
@@ -78,8 +78,8 @@ I'm a software professional at TCS with hands-on experience in **Salesforce Deve
 
 #### Video Editing & Motion
 <p align="left">
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_premiere/adobe_premiere-icon.svg" alt="Adobe Premiere Pro" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_aftereffects/adobe_aftereffects-icon.svg" alt="After Effects" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Pro" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="After Effects" width="40" height="40"/></a>
   <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="DaVinci Resolve" width="40" height="40"/></a>
 </p>
 
